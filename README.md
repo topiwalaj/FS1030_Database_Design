@@ -10,4 +10,4 @@ Lesson 1 Assignment
 
 ## Relational Model
 
-Link: https://docs.google.com/document/d/1uzxByJz-Ujc1xEMatv7mVlo0GwvRBxzTOmSVncqlFYI/edit
+**Link:** https://docs.google.com/document/d/1uzxByJz-Ujc1xEMatv7mVlo0GwvRBxzTOmSVncqlFYI/edit
