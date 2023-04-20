@@ -1,6 +1,3 @@
-# FS1030_Database_Design
-
-
 ## Mission Statement:
 The purpose of the starting up Topiwala Tailor database is to gather information from customers about their measurements and materials, to make it available to the tailors so that the tailor can prepare the order.
 
