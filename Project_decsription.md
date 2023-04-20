@@ -1,3 +1,5 @@
+# Brief description of the project:
+
 My project is being designed for a custom tailoring business. I have created the database for my web application project ‘Topiwala Tailor’. Custom tailoring aims to give customers full control over their choice of material and style for clothing made custom fitted to their size.
 
 The main purpose of the database is to gather information from customers about their measurements and materials, to make it available to the tailors so that the tailor can prepare the order. Customers can book appointments; can see different styles of clothes available; can place orders and can check the status of their orders. Customers can also choose to fill in their measurements if they prefer. 
